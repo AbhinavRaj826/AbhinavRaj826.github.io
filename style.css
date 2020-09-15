@@ -139,3 +139,7 @@ p           {
 .post-images{
             width: 50%;
             }
+figcaption  {
+            color: gray;
+            font-style: oblique;
+            }
