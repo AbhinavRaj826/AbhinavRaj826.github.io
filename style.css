@@ -142,4 +142,5 @@ p           {
 figcaption  {
             color: gray;
             font-style: oblique;
+            width: 512px;
             }
