@@ -108,3 +108,7 @@ a         {
 a:hover   {
           color: #F6A623;
           }
+#footer img{
+           height: 40px;
+           width: 40px;
+           }
