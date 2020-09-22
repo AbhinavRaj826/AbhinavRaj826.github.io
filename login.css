@@ -1,0 +1,110 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+body      {
+          color: #555;
+          margin: 0;
+          font-family: 'Montserrat',sans-serif;
+          }
+#header   {
+          background-color: #1abc9c;
+          height: 150px;
+          line-height: 150px;
+          position: absolute;
+          top: 0;
+          width: 100%;
+          }
+#header a {
+          color: white;
+          text-decoration: none;
+          text-transform: uppercase;
+          letter-spacing: 0.1em;
+          }
+#header a:hover {
+          color: #222;
+          }
+#header-title{
+          display: block;
+          float: left;
+          font-size: 20px;
+          font-weight: bold;
+          padding: 0 0 0 30px;
+          }
+#header-nav{
+          display: block;
+          float: right;
+          margin-top: 0;
+          padding: 0 25px 0 0;
+          }
+#header-nav li{
+          display: inline;
+          padding-left: 20px;
+          }
+.login-box  {
+            width: 320px;
+            height: 450px;
+            background: rgba( 0, 0, 0, 0.5) ;
+            color: #fff;
+            top: 50%;
+            left: 50%;
+            position: absolute;
+            transform: translate(-50%,-50%);
+            box-sizing: border-box;
+            padding: 70px 30px;
+            margin: 150px 0 100px 0;
+            }
+.user       {
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            position: absolute;
+            top: -50px;
+            left: calc(50% - 50px);
+            }
+.login-box1{
+            border: none;
+            border-bottom: 1px solid #fff;
+            background: transparent;
+            outline: none;
+            height: 40px;
+            color: #fff;
+            font-size: 16px;
+            }
+.login-box2 {
+            border: none;
+            outline: none;
+            height: 40px;
+            width: 100%;
+            background: #1c8adb;
+            color: #fff;
+            margin: 20px 0 10px 0;
+            }
+#footer   {
+          background-color: #2f2f2f;
+          padding: 5px 0;
+          margin-top: 100px;
+          position: relative;
+          top: 1000px;
+          width: 100%;
+          top: 600px;
+          height: 150px;
+          }
+.column   {
+          min-width: 300px;
+          display: inline-block;
+          vertical-align: top;
+          padding: 0 0 0 10px;
+          }
+#footer h4{
+          color: white;
+          text-transform: uppercase;
+          letter-spacing: 0.1em;
+          }
+#footer p {
+          color: white;
+          }
+a         {
+          color: #1abc9c;
+          text-decoration: none;
+          }
+a:hover   {
+          color: #F6A623;
+          }
