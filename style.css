@@ -101,3 +101,9 @@ p           {
 .post-container:nth-child(even){
             background-color: #f2f2f2;
 }
+#button{
+  color: black;
+  background-color: orange;
+  font-family: Times New Roman;
+  padding: 2px 2px 2px 2px;
+}
