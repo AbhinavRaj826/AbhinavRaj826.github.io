@@ -106,4 +106,8 @@ p           {
   background-color: orange;
   font-family: Times New Roman;
   padding: 2px 2px 2px 2px;
+  height: 45px;
+  width: 212px;
+  font-size: 24px;
+  font-weight: bold;
 }
